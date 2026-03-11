@@ -1,0 +1,4 @@
+[2026-03-11 17:25:42.215] [info] Welcome to spdlog!
+[2026-03-11 17:25:42.215] [error] Some error message with arg: 1
+[2026-03-11 17:25:42.215] [warning] Easy padding in numbers like 00000012
+[2026-03-11 17:25:42.216] [critical] Support for int: 42; hex: 2a; oct: 52
