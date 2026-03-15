@@ -1,0 +1,4 @@
+~ main* ❯ g++ -std=c++11 -o test3 test3.cpp -lspdlog -lfmt             16:49:26
+~ main* 6s ❯ ./test3                                                   17:19:41
+~ main* ❯ cat logs.txt                                                 17:19:48
+[2026-03-15 17:19:48.288] [file_logger] [info] This is written to file
